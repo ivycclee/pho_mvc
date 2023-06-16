@@ -5,3 +5,6 @@ This was an assignment completed for module Data Design and Programming (SD2). T
 - This project requires the use of XAMPP. Clone the repo into the XAMPP's htdocs folder.
 - In your browser, navigate to localhost/pvp_mvc
 
+# Sample login data
+- Admin: [ Admin, Password1 ]
+- Member: [ Member, Password2 ]
